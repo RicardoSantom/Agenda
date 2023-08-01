@@ -1,0 +1,9 @@
+@extends('layouts.master')
+@section('body')
+@endsection
+@section('header')
+@endsection
+@section('content')
+@endsection
+@section('footer')
+@endsection
